@@ -31,14 +31,12 @@ Apasionado por enseñar, documentar y construir soluciones bajo recursos extremo
   <img src="https://github.com/mcapoterovaina-tech/mcapoterovaina-tech/blob/main/IMG/educate.PNG?raw=true" alt="Proyecto 1" style="width: 50%; height: 50%;" />
 </p>
 <p align="center">
-  <a href="https://github.com/tuusuario/proyecto1">
-    <img src="https://github.com/mcapoterovaina-tech/mcapoterovaina-tech/blob/main/IMG/interfaz%20modificada%20en%20noche.PNG?raw=true" style="width: 50%; height: 50%; border-radius: 20px;" />
-  </a>
+  <a href="https://github.com/tuusuario/proyecto1"></a>
 </p>
 
 <!-- Proyecto 2 -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Proyecto+2" alt="Proyecto 2" />
+  <img src="https://github.com/mcapoterovaina-tech/mcapoterovaina-tech/blob/main/IMG/interfaz%20modificada%20en%20noche.PNG?raw=true" style="width: 50%; height: 50%; border-radius: 20px;" alt="Proyecto 2" />
 </p>
 <p align="center">
   <a href="https://github.com/tuusuario/proyecto2">
