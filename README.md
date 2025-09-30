@@ -28,7 +28,7 @@ Apasionado por enseñar, documentar y construir soluciones bajo recursos extremo
 
 <!-- Proyecto 1 -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Proyecto+1" alt="Proyecto 1" />
+  <img src="https://github.com/mcapoterovaina-tech/mcapoterovaina-tech/blob/main/IMG/educate.PNG?raw=true" alt="Proyecto 1" style="width: 100%; height: 50%;" />
 </p>
 <p align="center">
   <a href="https://github.com/tuusuario/proyecto1">
