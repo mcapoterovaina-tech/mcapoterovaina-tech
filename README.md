@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 Sobre mí
-Visionario, tutor y creador de sistemas modulares.  
+Visionario, creador de sistemas modulares.  
 Apasionado por enseñar, documentar y construir soluciones bajo recursos extremos.
 
 ---
@@ -31,15 +31,17 @@ Apasionado por enseñar, documentar y construir soluciones bajo recursos extremo
   <img src="https://github.com/mcapoterovaina-tech/mcapoterovaina-tech/blob/main/IMG/educate.PNG?raw=true" alt="Proyecto 1" style="width: 50%; height: 50%;" />
 </p>
 <p align="center">
-  <a href="https://github.com/tuusuario/proyecto1"></a>
+  <a href="https://github.com/mcapoterovaina-tech/educate.n">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <!-- Proyecto 2 -->
 <p align="center">
-  <img src="https://github.com/mcapoterovaina-tech/mcapoterovaina-tech/blob/main/IMG/interfaz%20modificada%20en%20noche.PNG?raw=true" style="width: 50%; height: 50%; border-radius: 20px;" alt="Proyecto 2" />
+  <img src="https://github.com/mcapoterovaina-tech/mcapoterovaina-tech/blob/main/IMG/interfaz%20modificada%20en%20noche.PNG?raw=true" style="width: 50%; height: 50%; border-radius: 20px 20px 20px 20px;" alt="Proyecto 2" />
 </p>
 <p align="center">
-  <a href="https://github.com/tuusuario/proyecto2">
+  <a href="https://github.com/mcapoterovaina-tech/constructor">
     <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -49,10 +51,10 @@ Apasionado por enseñar, documentar y construir soluciones bajo recursos extremo
 ## 📬 Contacto
 
 <p align="center">
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:mcapoterovaina@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://facebook.com/tuusuario">
+  <a href="https://facebook.com/CODER">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
