@@ -1,8 +1,8 @@
 # 👋 Hola, soy Maikol (sí, ese mismo)
 
 <!-- Banner -->
-<p align="center" style="width: 100%;>
-  <img src="https://github.com/mcapoterovaina-tech/mcapoterovaina-tech/blob/main/IMG/Bienvenido.png?raw=true" alt="Banner" />
+<p align="center">
+  <img style="width: 100%; src="https://github.com/mcapoterovaina-tech/mcapoterovaina-tech/blob/main/IMG/Bienvenido.png?raw=true" alt="Banner"/>
 </p>
 
 ---
