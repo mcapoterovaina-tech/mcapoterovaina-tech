@@ -32,7 +32,7 @@ Apasionado por enseñar, documentar y construir soluciones bajo recursos extremo
 </p>
 <p align="center">
   <a href="https://github.com/tuusuario/proyecto1">
-    <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://github.com/mcapoterovaina-tech/mcapoterovaina-tech/blob/main/IMG/interfaz%20modificada%20en%20noche.PNG?raw=true" style="width: 50%; height: 50%; border-radius: 20px;" />
   </a>
 </p>
 
