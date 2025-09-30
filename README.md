@@ -1,4 +1,4 @@
-# 👋 Hola, soy Maikol (sí, ese mismo)
+# 👋 Hola, soy.... (sí, ese mismo)
 
 <!-- Banner -->
 <p align="center">
