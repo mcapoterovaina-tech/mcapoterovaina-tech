@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="/mcapoterovaina-tech/IMG/Bienvenido.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/mcapoterovaina-tech/main/IMG/Bienvenido.png" alt="Banner" />
 </p>
 
 ---
