@@ -19,6 +19,7 @@ Apasionado por enseñar, documentar y construir soluciones bajo recursos extremo
 
 ![HTML](https://img.shields.io/badge/HTML-100%25-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-100%25-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![GDScript](https://img.shields.io/badge/GDScript-60%25-purple?style=for-the-badge&logo=godot-engine&logoColor=white)
 
