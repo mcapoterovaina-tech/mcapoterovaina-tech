@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Tu+Banner+Personalizado" alt="Banner" />
+  <img src="/mcapoterovaina-tech/IMG/" alt="Banner" />
 </p>
 
 ---
